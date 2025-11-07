@@ -1,7 +1,7 @@
 - Hi, I’m Onidul Islam Siyam
-- I’m interested in Blockchain & Fintech
+- I’m interested in AI and Machine Learning 
 - I’m currently learning Python
-- I’m looking to collaborate on Web and ML
+- I’m looking to collaborate on Computer Vision
 - Email: anidsiam@hotmail.com
 
 <!---
