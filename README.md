@@ -1,7 +1,7 @@
 - Hi, I’m Onidul Islam Siyam
-- I’m interested in AI and Machine Learning 
-- I’m currently learning Python
-- I’m looking to collaborate on Computer Vision
+- I’m interested in Computer Vision, Data training - (AI & ML)
+- I’m currently learning Python and JS
+- I’m looking to collaborate on any web, native, or any
 - Email: anidsiam@hotmail.com
 
 <!---
